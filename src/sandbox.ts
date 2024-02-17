@@ -40,7 +40,7 @@ ninja = {
 };
 
 // explicit types
-let character: string;
+let random: string;
 let age: number;
 let isLoggedIn: boolean;
 

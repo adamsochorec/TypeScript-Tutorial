@@ -30,7 +30,7 @@ ninja = {
     age: 40,
 };
 // explicit types
-let character;
+let random;
 let age;
 let isLoggedIn;
 age = 30;
